@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background: lightgrey;
+}
+.img {
+    border-radius: 15px;
+    margin-top: 13px;
+    width: 253px;}
+
+.mainBox {
+    border-radius: 15px;
+    margin: 100px auto;
+    width: 278px;
+    height: 440px;
+    background-color: white;
+    font-size: 15px;
+    font-family: Outfit, sans-serif;
+}
+
+.p1 {
+    font-weight: bolder;
+    font-family: 'Outfit', sans-serif;
+    font-size: large;
+    margin: auto 30px;
+    
+    color: hsl(218, 44%, 22%);
+}
+
+.p2 {
+    margin: 17px 30px;
+font-size: small;
+    color: #6699;
+}
